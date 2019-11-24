@@ -1,5 +1,3 @@
-# Default ignored files
-../.gradle/
-../build/
-../out/
-/workspace.xml
+.gradle/
+build/
+out/
