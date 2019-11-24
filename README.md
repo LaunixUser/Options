@@ -1,2 +1,2 @@
 # Options
-A Java package to manage simple to very complex command line options for Java programs
+A Java package to handle command line arguments with a multitude of features
