@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Options:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="053c8e5b-437f-4947-b8b5-5f0f331df629" name="Default Changelist" comment="First drop in new approach using IntelliJ, Gradle, and new package naming scheme">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/Constrainable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/Constraint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/DefaultHelpPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/ExclusiveConstraint$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/ExclusiveConstraint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/HelpPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/OptionData$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/OptionData$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/OptionData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/OptionSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/Options$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/Options$Multiplicity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/Options$Prefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/Options$Separator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/Options.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/SchemaValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/ValueConstraint$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/ValueConstraint$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/ValueConstraint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/XMLConstraint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/org/ml/options/XMLParsingException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Options_jar/Options.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Options_jar/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Options_jar/jdom2-2.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Options_jar/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Options" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U4XO0uxNOlri9Mko6J9RDF4NLl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="053c8e5b-437f-4947-b8b5-5f0f331df629" name="Default Changelist" comment="" />
+      <created>1574616805459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574616805459</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First drop in new approach using IntelliJ, Gradle, and new package naming scheme">
+      <created>1574618346029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574618346029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First drop in new approach using IntelliJ, Gradle, and new package naming scheme" />
+    <option name="LAST_COMMIT_MESSAGE" value="First drop in new approach using IntelliJ, Gradle, and new package naming scheme" />
+  </component>
+</project>
