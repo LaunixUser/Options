@@ -95,6 +95,7 @@ public class Options {
          * Separate option and value by blank space
          */
         BLANK(' ');      // Or, more precisely, whitespace (as allowed by the CLI)
+        
         private char c;
 
         Separator(char c) {
