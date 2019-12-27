@@ -18,7 +18,7 @@ import org.xml.sax.SAXException;
 /**
  * The central class for option processing. Sets are identified by their name,
  * but there is also an anonymous default set, which is very convenient if an
- * application requieres only one set.
+ * application requires only one set.
  * <p>
  * The default values used in this class are:
  *
